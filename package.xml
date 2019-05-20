@@ -3,7 +3,7 @@
   <name>opencaret_vehicle_interface</name>
   <version>0.0.1</version>
   <description>Vehicle Interface</description>
-  <maintainer email="farazrkhan@gmail.com">Faraz Khan</maintainer>
+  <maintainer email="jrojas@redlinesolutions.co">Jose Rojas</maintainer>
   <license>MIT</license>
   <buildtool_depend>catkin</buildtool_depend>
 
